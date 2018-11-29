@@ -21,3 +21,18 @@ Download the jsPsych library
 ========================================================
 
 <https://github.com/jspsych/jsPsych/releases>
+
+
+Create an empty html file
+========================================================
+
+```{}
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+  </head>
+  <body></body>
+</html>
+
+```
