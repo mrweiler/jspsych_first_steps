@@ -11,6 +11,12 @@ Download the atom editor
 <https://atom.io/>
 
 
+Download firefox
+========================================================
+
+<https://www.mozilla.org/de/firefox/new/>
+
+
 Download the jsPsych library
 ========================================================
 
