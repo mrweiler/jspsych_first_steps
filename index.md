@@ -5,13 +5,13 @@ date: 30.11.2018
 autosize: true
 
 
-Download the atom editor
+Optional: Download atom
 ========================================================
 
 <https://atom.io/>
 
 
-Download firefox
+Optional: Download firefox
 ========================================================
 
 <https://www.mozilla.org/de/firefox/new/>
